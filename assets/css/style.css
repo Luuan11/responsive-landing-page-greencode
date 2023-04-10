@@ -4,3 +4,70 @@
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4{
+    color: var(--title-color);
+    font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+ul{
+    list-style: none;
+}
+
+:root{
+    --first-color: hsl(19, 64%, 54%);
+    --first-color-alt: hsl(19, 64%, 52%);
+    --title-color: hsl(19, 16%, 15%);
+    --text-color: hsl(19, 16%, 35%);
+    --text-color-light: hsl(19, 8%, 55%);
+    --body-color: hsl(19, 100%, 96%);
+    --container-color: hsl(19, 100%, 97%);
+}
+
+.container{
+    max-width: 1024px;
+    margin-inline: 1.5rem;
+}
+
+.section{
+    padding-block: 5rem 1rem
+}
+
+.grid{
+    display: grid;
+    gap: 1.5rem;
+}
+
+.section__title{
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.section__subtitle{
+    display: block;
+    font-size: 1.25rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--first-color);
+    margin-bottom: .5rem;
+}
+
+.section__title, .section__subtitle{
+    text-align: center;
+}
+
+.main{
+    overflow: hidden;
+}
