@@ -30,10 +30,10 @@ ul{
 :root{
     --first-color: #d56e3f;
     --first-color-alt: #d36836;
-    --title-color: #2c2420
+    --title-color: #fafafa;
     --text-color: #68544b;
     --text-color-light: #958983;
-    --body-color: #facfbd;
+    --body-color: #1e2c25;
     --container-color: #fff5f0;
 }
 
@@ -140,10 +140,10 @@ ul{
 
 .nav__close{
     position: absolute;
+    cursor: pointer;
     top: 1rem;
     right: 1.5rem;
     font-size: 1.5rem;
-    cursor: pointer;
 }
 
 .show-menu{
