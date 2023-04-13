@@ -217,3 +217,167 @@ ul{
 .btn:hover i{
     transform: translateX(.25rem);
 }
+
+.about{
+    position: relative;
+}
+
+.about__container{
+    row-gap: 3rem;
+}
+
+.about__data{
+    text-align: center;
+}
+
+.about__title img{
+    width: 30px;
+}
+
+.about_title div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: .5rem;
+}
+
+.about__img{
+    width: 300px;
+    justify-self: center;
+}
+
+.newsletter__container{
+    position: relative;
+}
+
+.newsletter__content{
+    position: relative;
+    background-color: hsl(19, 24%, 15%);
+    border-radius: 2.5rem;
+    padding: 5rem 1rem 3rem;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.newsletter__img{
+    width: 250px;
+    position: absolute;
+    top: -4.5rem;
+    left: -8rem;
+}
+
+.newsletter__data .section__title{
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.newsletter__form{
+    padding: 5px 5px 5px 16px;
+    background-color: #fff;
+    border-radius: 4rem;
+    display: flex;
+    column-gap: .5rem;
+}
+
+.newsletter__input, .newsletter__button{
+    border: none;
+    outline: none;
+}
+
+.newsletter__input{
+    width: 90%;
+    color: var(--text-color);
+}
+
+.footer{
+    position: relative;
+    padding-block: 3rem 2rem;
+    overflow: hidden;
+}
+
+.footer_container{
+    row-gap: 3rem;
+}
+
+.footer__logo{
+    display: inline-flex;
+    align-items: center;
+    column-gap: .5rem;
+    color: var(--title-color);
+    font-size: 1rem;
+    font-weight: 1rem;
+    transition: color .3s;
+}
+
+.footer__logo img{
+    width: 25px;
+}
+
+.footer__logo:hover{
+    color: var(--first-color);
+}
+
+.footer__description,
+.footer__link,
+.footer__information{
+    font-size: .8rem;
+}
+
+.footer__content,
+.footer-_links{
+    display: grid;
+}
+
+.footer__content{
+    grid-template-columns: repeat(2, max-content);
+    gap: 2.5rem;
+}
+
+.footer__title{
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.footer__links{
+    row-gap: .5rem;
+}
+
+.footer__link{
+    color: var(--text-color);
+    transition: color .3s;
+}
+
+.footer__link:hover{
+    color: var(--first-color);
+}
+
+.footer__social{
+    display: flex;
+    column-gap: 1.25rem;
+}
+
+.footer__social-link{
+    color: var(--first-color);
+    font-size: 1.25rem;
+    transition: color .3s, transform .3s;
+}
+
+.footer__social-link:hover{
+    color: var(--first-color-alt);
+    transform: translateY(-2px);
+}
+
+.footer__info{
+    margin-top: 6.5rem;
+    flex-direction: column;
+    row-gap: 1.5rem;
+}
+
+.footer__copy{
+    text-align: center;
+    font-size: .8rem;
+    color: var(--text-color-light);
+}
+
+
