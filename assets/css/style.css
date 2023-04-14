@@ -339,6 +339,7 @@ img {
   display: inline-block;
   padding: 15px 10px;
   margin: auto;
+  border-radius: 10px;
 }
 
 .news-card img{
@@ -546,6 +547,7 @@ img {
   
   .news-card{
     display: inline-block;
+    padding: 15px 9px;
   }
   
   .news-card img{
