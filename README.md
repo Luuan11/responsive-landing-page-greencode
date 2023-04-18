@@ -1,2 +1,2 @@
 # responsive-landing-page-greencode
-🌱Greencode responsive with ReactJs and Tailwind CSS
+🌱Greencode responsive with HTML and CSS
