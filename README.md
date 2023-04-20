@@ -1,14 +1,18 @@
 # responsive-landing-page-greencode
 🌱Greencode responsive with HTML CSS and Javascript.
 
-![greencode vercel app_](https://user-images.githubusercontent.com/79935555/233244798-14582fd3-eca5-4d60-9020-369d7e4b493b.png)
+![preview](https://user-images.githubusercontent.com/79935555/233246212-9ff0c9fc-2ecf-48c0-8ed9-1d9b40312662.png)
 
 ## 💬 Sobre
+Projeto criado na intenção de ser uma empresa que conecta a outras empresas, com o objetivo de cuidamos do planeta por meio da reciclagem!
 
-### 💡 Tecnologias:
-
+### 💡 Tecnologias
 esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- HTML
+- css
+- javascript
+- boxicons
 
 ## Clone
 
