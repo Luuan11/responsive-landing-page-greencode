@@ -10,9 +10,9 @@ Projeto criado na intenção de ser uma empresa que conecta a outras empresas, c
 esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- css
-- javascript
-- boxicons
+- CSS
+- Javascript
+- Boxicons
 
 ## Clone
 
