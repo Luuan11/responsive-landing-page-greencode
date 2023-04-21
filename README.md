@@ -1,5 +1,5 @@
 # responsive-landing-page-greencode
-🌱Greencode responsive with HTML CSS and Javascript.
+🌱Greencode responsive with HTML, CSS, Javascript and Boxicons.
 
 ![preview](https://user-images.githubusercontent.com/79935555/233246212-9ff0c9fc-2ecf-48c0-8ed9-1d9b40312662.png)
 
